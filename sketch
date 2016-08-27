@@ -1,0 +1,34 @@
+header
+	logo
+	title
+	links
+		home, listings, about, contact 
+
+body
+	page
+	home
+		lead picture with text description
+		house slideshow
+	listings
+		listing of recent
+		listings in blah
+	about
+		picture
+		text paragraph
+	contact
+		submit form
+		email
+		number
+	login page
+		list of house database
+
+footer
+	copyright
+	contact
+	social media
+	number
+	login
+	
+
+
+
